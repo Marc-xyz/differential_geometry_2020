@@ -1,7 +1,7 @@
 # Resum del contingut 
 Aquest repositori conté tots els materials de l'assignatura **Geometria Diferencial [MO32211]** del **3r curs** del **Grau en Matemàtiques** impartit a la *Facultat de ciències* pel *Departament de Matemàtiques* a la *Universitat Autònoma de Barcelona* durant el *segon semestre* del curs  acadèmic *2019-2020*. El professorat d'aquesta assignatura s'ho ha _currat_ molt, calia emmagatzemar-ho de forma ben estructurada. 
 
-```bash
+```Haskell
 .
 ├── GD_01_TEORIA
 │   ├── GD_AmpliacioAgustiR
@@ -22,7 +22,7 @@ Aquest repositori conté tots els materials de l'assignatura **Geometria Diferen
 ├── GD_ImatgeReadme001.png
 └── README.md
 ```
-`
+
 ## `./GD_01_TEORIA/`
 ### Teoria (Vídeos) `./GD_01_UnitatsVideoMesManuscritsTeoria`
 |**Direcció relativa**| **Detalls sobre el contingut**              |
