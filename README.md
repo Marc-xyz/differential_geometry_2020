@@ -1,5 +1,5 @@
 # Resum del contingut 
-Aquest repositori conté tots els materials de l'assignatura **Geometria Diferencial [MO32211]** del **3r curs** del **Grau en Matemàtiques** impartit a la *Facultat de ciències* pel *Departament de Matemàtiques* a la *Universitat Autònoma de Barcelona* durant el *segon semestre* del curs  acadèmic *2019-2020*. El professorat d'aquesta assignatura s'ho ha _currat_ molt, calia emmagatzemar-ho de forma ben estructurada. 
+Aquest repositori conté tots els materials (demanar *.zip i *.mp4) de l'assignatura **Geometria Diferencial [MO32211]** del **3r curs** del **Grau en Matemàtiques** impartit a la *Facultat de ciències* pel *Departament de Matemàtiques* a la *Universitat Autònoma de Barcelona* durant el *segon semestre* del curs  acadèmic *2019-2020*. El professorat d'aquesta assignatura s'ho ha _currat_ molt, calia emmagatzemar-ho de forma ben estructurada. 
 
 ```Haskell
 .
